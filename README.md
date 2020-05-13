@@ -6,3 +6,5 @@ Over the last hundred years popular music has changed dramatically. From the ins
 
 Reference for composers to look up https://archive.org/details/americanpopulars00alec/page/23
 https://en.wikipedia.org/wiki/Great_American_Songbook#Songwriters_and_songs
+
+All lyrics have been scraped from https://www.lyricsfreak.com/
