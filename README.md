@@ -50,6 +50,25 @@ Looking through this notebook you can see all the information you need to find o
 6. [Confusion Matrix](05_Confusion_Matrix.ipynb)
 7. [Predictions Data](06_Predictions_Data.ipynb)
 
+## Data:
+- [Data on model predictions](datasets/X_test_predictions.csv)
+- [All the lyrics combined into one CSV](datasets/all_lyrics.csv)
+- [All lyrics added cleaned lyrics column](datasets/all_lyrics_add_clean_lyrics_col)
+- [Lryics by Arlen, Carmichael, Hammerstein, Porter](datasets/arlen_carmichael_hammerstein_porter.csv)
+- [Lyrics by Berlin, Gershwin, Kern, Mercer, Rodgers, Waller](datasets/berlin_gershwin_kern_mercer_rodgers_waller.csv)
+- [Lyrics with sentiment analysis](datasets/cleaned_lyrics_with_sentiment_analysis)
+- [Coefficients from model prediction](datasets/coefs_with_and_without_stopwords.csv)
+- [Disney Renaissance lyrics](datasets/disney_renaissance.csv)
+- [Disney songs](datasets/disney_songs.csv)
+- [More Disney songs](datasets/more_disney_songs.csv)
+- [Model predictions](datasets/predictions.csv)
+
+#  Data Dictionary
+Feature|    Type|    Dataset|Description|
+-------|--------|-----------|-----------|
+**song_writer**|object|all_lyrics_add_clean_lyrics_col|Name of songwriter or Disney movie|
+
+
 ##  References
 
 ##### Lyrics:
@@ -66,4 +85,3 @@ Looking through this notebook you can see all the information you need to find o
 ##### Disney and the Disney Renaissance:
 - [Disney Renaissance](https://en.wikipedia.org/wiki/Disney_Renaissance) - Disney Movies that were apart of the Disney Renaissance
 - [Disney Renaissance Video Breakdown](https://www.youtube.com/watch?v=JX0gZY9VKlM) - A video breakdown on why Disney music has such a nostalgic sound.
-
