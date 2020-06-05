@@ -22,8 +22,21 @@ Looking through this notebook you can see all the information you need to find o
 - Matplotlib
 - Seaborn
 - Scikit-Learn 
-  - CountVectorizer, TfidfVectorizer
-
+  - CountVectorizer
+  - TfidfVectorizer
+  - Logistic Regression
+  - train_test_split
+  - GridSearchCV
+  - Pipeline
+  - GaussianNB
+  - TransformerMixin
+  - RandomForestClassifier
+  - ExtraTreesClassifier
+  - GradientBoostingClassifier
+  - AdaBoostClassifier
+  - SVC
+  - Confusion Matrix
+  - ROC AUC Score
 
 
 Reference for composers to look up https://archive.org/details/americanpopulars00alec/page/23
