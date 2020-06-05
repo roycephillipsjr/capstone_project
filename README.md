@@ -63,7 +63,7 @@ Looking through this notebook you can see all the information you need to find o
 - [More Disney songs](datasets/more_disney_songs.csv)
 - [Model predictions](datasets/predictions.csv)
 
-#  Data Dictionary
+## Data Dictionary
 Feature|    Type|    Dataset|Description|
 -------|--------|-----------|-----------|
 **song_writer**|object|all_lyrics_add_clean_lyrics_col|Name of songwriter or Disney movie|
