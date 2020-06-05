@@ -7,6 +7,25 @@
 
 Over the last hundred years popular music has changed dramatically. From the instruments used to the chord progressions that give the foundation of a song. This project is to discover how differently musical lyrics have changed over time. During the 20's, 30's, and 40's many musicians all performed the popular songs of the day that came from musicals. Today these great songs are known as 'The Great American Songbook.' I am interested to find out what makes these lyrics characteristically different to the music in Walt Disney films. I will use classification models to predict which category the lyrics are from and use precision and recall as success metrics. 
 
+## Quick Summary
+Looking through this notebook you can see all the information you need to find on how I scraped to gather the lyrics using requests and BeautifulSoup. Then did some cleaning of the data again using BeautifulSoup and some Python functions. After the data was cleaned I then did some analysis on that data. Then I finally put the lyrics through some models to see if it could predict between the two sources content. The words were run through a CountVectorizer and a TFIDFVectorizer to see if one performed better over the other. Some of the models used were a Logistic Regression, Random Trees Classifier, and Support Vector Classifier.
+
+## Software Requirements/Libraries
+- Python
+- Pandas
+- Numpy
+- Time
+- Requests
+- Beautiful Soup
+- Regex
+- NLTK Stopwords
+- Matplotlib
+- Seaborn
+- Scikit-Learn 
+  -CountVectorizer, TfidfVectorizer
+
+
+
 Reference for composers to look up https://archive.org/details/americanpopulars00alec/page/23
 
 All lyrics have been scraped from 
