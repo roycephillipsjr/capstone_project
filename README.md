@@ -58,7 +58,7 @@ Looking through this notebook you can see all the information you need to find o
 
 ##### “The Great American Songbook”:
 
-- [Great American Songbook Society](https://thesongbook.org/)
+- [Great American Songbook Society](https://thesongbook.org/) - A foundation dedicated to the preservation of music from the Great American Songbook.
 - [List of The Great American Songbook Songwriters](https://en.wikipedia.org/wiki/Great_American_Songbook#Songwriters_and_songs) - Source I used to pick songwriters 
 - [Americna Popular Composers](https://archive.org/details/americanpopulars00alec/page/23) - Another source used to discover songwriters
 - [History of The Great American Songbook](https://www.udiscovermusic.com/in-depth-features/cover-to-cover-the-story-of-the-great-american-songbook/) - Article on more information about "The Great American Songbook"
