@@ -1,5 +1,5 @@
 # Capstone Project
-
+![](images/TheGreatAmericanSongbook_Pack1.jpg)
 [Photo Source](https://www.demonmusicgroup.co.uk/catalogue/releases/the-great-american-songbook/) 
 ## Problem Statement
 
