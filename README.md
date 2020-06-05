@@ -67,6 +67,23 @@ Looking through this notebook you can see all the information you need to find o
 Feature|    Type|Description|
 -------|--------|-----------|
 **song_writer**|object|Name of songwriter or Disney movie|
+**song_name**|object|Name of song|
+**lryics**|object|Lyrics of the song|
+**song_link**|object|Hyperlink to the source of the lyrics|
+**american_songbook**|integer|Integer signifying if the song is from "The Great American Songbook" catalog. 1 = American Songbook, 0 = Disney|
+**disney_renaissance**|integer|Integer signifying if the song is from the Disney Renaissance catalog. 1 = Disney Renaissance, 0 = All other songs|
+**clean_lyrics**|object|Lyrics that have been cleaned. All html and unnecessary characters are removed|
+**predictions**|object|Predictions the model made on the lyrics. 1 = American Songbook, 0 = Disney|
+**coeffs**|integer|Coefficients of the words|
+**coeffs_with_stopwords**|integer|Coefficients of the words with stopwords added as a hyperparameter|
+**clean_lyrics_with_stopwords**|object|Lyrics that have been cleaned. All html, unnecessary characters, and the stopwords are removed|
+**char_count**|integer|Character counts of the lyrics|
+**word_count**|integer|Word counts of the lyrics|
+**neg**|integer|Negative sentiment analysis of lyrics|
+**neu**|integer|Neutral sentiment analysis of lyrics|
+**pos**|integer|Positive sentiment analysis of lyrics|
+**compound**|integer|Compound sentiment analysis of lyrics|
+**predictions_with_stopwords**|integer|Predictions the model made on the lyrics with stopwords as an added hyperparameter. 1 = American Songbook, 0 = Disney|
 
 
 ##  References
