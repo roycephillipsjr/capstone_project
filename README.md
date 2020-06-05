@@ -85,6 +85,12 @@ Feature|    Type|Description|
 **compound**|integer|Compound sentiment analysis of lyrics|
 **predictions_with_stopwords**|integer|Predictions the model made on the lyrics with stopwords as an added hyperparameter. 1 = American Songbook, 0 = Disney|
 
+## Summary
+
+This was a very interesting project to take on. It was interesting to learn more about two sources of music that I enjoy very much. “The Great American Songbook” is a great source of some of the most well-known and widely used music in jazz and pop culture. Disney is a behemoth producing some of the most popular songs in the world. Most recently Disney had a huge hit with Frozen’s “Let It Go.” It would be interesting to see how much better the model could have done with more source material. This also could be an interesting start to see if you could create an AI that could try to create lyrics in the style of “The Great American Songbook.” I was only able to pull a fraction of the amount of music that was produced during that time period. So if more lyrics could be pulled then the model would have more information to train on. There is a big difference between the two musical genres, but it was also interesting to see how similar some characteristics were to each other. 
+
+For more in depth knowledge on our process check this [executive summary](Presentation_Files/DOC)
+<br>For the [powerpoint presentation](Presentation_Files/PPT)
 
 ##  References
 
@@ -102,7 +108,3 @@ Feature|    Type|Description|
 ##### Disney and the Disney Renaissance:
 - [Disney Renaissance](https://en.wikipedia.org/wiki/Disney_Renaissance) - Disney Movies that were apart of the Disney Renaissance
 - [Disney Renaissance Video Breakdown](https://www.youtube.com/watch?v=JX0gZY9VKlM) - A video breakdown on why Disney music has such a nostalgic sound.
-
-
-For more in depth knowledge on our process check this [executive summary](Presentation_Files/DOC)
-<br>For the [powerpoint presentation](Presentation_Files/PPT)
