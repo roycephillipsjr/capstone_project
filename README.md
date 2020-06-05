@@ -55,12 +55,12 @@ Looking through this notebook you can see all the information you need to find o
 ##### Lyrics:
 - [The Great American Songbook](https://www.lyricsfreak.com/) - Source for "The Great American Songbook Lyrics"
 - [Disney Lyrics](http://www.disneyclips.com/lyrics/) - Source for all the Disney Lyrics
-Reference for composers to look up https://archive.org/details/americanpopulars00alec/page/23
 
 ##### “The Great American Songbook”:
 
 - [Great American Songbook Society](https://thesongbook.org/)
 - [List of The Great American Songbook Songwriters](https://en.wikipedia.org/wiki/Great_American_Songbook#Songwriters_and_songs) - Source I used to pick songwriters 
+- [Americna Popular Composers](https://archive.org/details/americanpopulars00alec/page/23) - Another source used to discover songwriters
 - [History of The Great American Songbook](https://www.udiscovermusic.com/in-depth-features/cover-to-cover-the-story-of-the-great-american-songbook/) - Article on more information about "The Great American Songbook"
 
 ##### Disney and the Disney Renaissance:
