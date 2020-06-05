@@ -1,5 +1,5 @@
 # Capstone Project
-![](images/TheGreatAmericanSongbook_Pack1.jpg) ![](images/Walt-Disney-logo-768x512.png)
+![](images/TheGreatAmericanSongbook_Pack1.jpg) ![](images/Walt-Disney.png)
 [Photo Source](https://www.demonmusicgroup.co.uk/catalogue/releases/the-great-american-songbook/) 
 ## Problem Statement
 
