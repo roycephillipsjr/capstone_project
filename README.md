@@ -22,7 +22,7 @@ Looking through this notebook you can see all the information you need to find o
 - Matplotlib
 - Seaborn
 - Scikit-Learn 
-  -CountVectorizer, TfidfVectorizer
+  - CountVectorizer, TfidfVectorizer
 
 
 
