@@ -66,7 +66,7 @@ Looking through this notebook you can see all the information you need to find o
 ## Data Dictionary
 Feature|    Type|Description|
 -------|--------|-----------|
-**song_writer**|object|all_lyrics_add_clean_lyrics_col|Name of songwriter or Disney movie|
+**song_writer**|object|Name of songwriter or Disney movie|
 
 
 ##  References
