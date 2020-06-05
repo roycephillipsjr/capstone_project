@@ -64,8 +64,8 @@ Looking through this notebook you can see all the information you need to find o
 - [Model predictions](datasets/predictions.csv)
 
 ## Data Dictionary
-Feature|    Type|    Dataset|Description|
--------|--------|-----------|-----------|
+Feature|    Type|Description|
+-------|--------|-----------|
 **song_writer**|object|all_lyrics_add_clean_lyrics_col|Name of songwriter or Disney movie|
 
 
