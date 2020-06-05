@@ -1,6 +1,8 @@
 # Capstone Project
 ![](images/TheGreatAmericanSongbook_Pack1.jpg) ![](images/Walt-Disney-logo.png)
-[Photo Source](https://www.demonmusicgroup.co.uk/catalogue/releases/the-great-american-songbook/) 
+
+[Songbook Photo Source](https://www.demonmusicgroup.co.uk/catalogue/releases/the-great-american-songbook/) 
+[Disney Logo Source](https://1000logos.net/walt-disney-logo/)
 ## Problem Statement
 
 Over the last hundred years popular music has changed dramatically. From the instruments used to the chord progressions that give the foundation of a song. This project is to discover how differently musical lyrics have changed over time. During the 20's, 30's, and 40's many musicians all performed the popular songs of the day that came from musicals. Today these great songs are known as 'The Great American Songbook.' I am interested to find out what makes these lyrics characteristically different to the music in Walt Disney films. I will use classification models to predict which category the lyrics are from and use precision and recall as success metrics. 
