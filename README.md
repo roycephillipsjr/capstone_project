@@ -50,24 +50,20 @@ Looking through this notebook you can see all the information you need to find o
 6. [Confusion Matrix](05_Confusion_Matrix.ipynb)
 7. [Predictions Data](06_Predictions_Data.ipynb)
 
+##  References
+
+##### Lyrics:
+- [The Great American Songbook](https://www.lyricsfreak.com/) - Source for "The Great American Songbook Lyrics"
+- [Disney Lyrics](http://www.disneyclips.com/lyrics/) - Source for all the Disney Lyrics
 Reference for composers to look up https://archive.org/details/americanpopulars00alec/page/23
 
-All lyrics have been scraped from 
-https://www.lyricsfreak.com/
-http://www.disneyclips.com/lyrics/
+##### “The Great American Songbook”:
 
-Sources:
+- [Great American Songbook Society](https://thesongbook.org/)
+- [List of The Great American Songbook Songwriters](https://en.wikipedia.org/wiki/Great_American_Songbook#Songwriters_and_songs) - Source I used to pick songwriters 
+- [History of The Great American Songbook](https://www.udiscovermusic.com/in-depth-features/cover-to-cover-the-story-of-the-great-american-songbook/) - Article on more information about "The Great American Songbook"
 
-“The Great American Songbook”:
+##### Disney and the Disney Renaissance:
+- [Disney Renaissance](https://en.wikipedia.org/wiki/Disney_Renaissance) - Disney Movies that were apart of the Disney Renaissance
+- [Disney Renaissance Video Breakdown](https://www.youtube.com/watch?v=JX0gZY9VKlM) - A video breakdown on why Disney music has such a nostalgic sound.
 
-https://thesongbook.org/
-
-https://en.wikipedia.org/wiki/Great_American_Songbook#Songwriters_and_songs
-
-https://www.udiscovermusic.com/in-depth-features/cover-to-cover-the-story-of-the-great-american-songbook/
-
-Disney and the Disney Renaissance:
-
-https://en.wikipedia.org/wiki/Disney_Renaissance
-
-https://www.youtube.com/watch?v=JX0gZY9VKlM
