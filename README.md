@@ -38,6 +38,17 @@ Looking through this notebook you can see all the information you need to find o
   - Confusion Matrix
   - ROC AUC Score
 
+#### Below you can see links to the jupyter notebooks, data, and references:
+
+## Jupyter Notebooks:
+
+1. [Gathering American Songbook Lyrics](00_Gathering_Lyrics.ipynb)
+2. [Gathering Disney Lyrics](01_Gathering_Disney_Lyrics.ipynb)
+3. [Combining Data](02_Combining_Songs.ipynb)
+4. [EDA](03_EDA.ipynb)
+5. [Modeling](04_Modeling.ipynb)
+6. [Confusion Matrix](05_Confusion_Matrix.ipynb)
+7. [Predictions Data](06_Predictions_Data.ipynb)
 
 Reference for composers to look up https://archive.org/details/americanpopulars00alec/page/23
 
