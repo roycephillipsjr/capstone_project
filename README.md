@@ -102,3 +102,7 @@ Feature|    Type|Description|
 ##### Disney and the Disney Renaissance:
 - [Disney Renaissance](https://en.wikipedia.org/wiki/Disney_Renaissance) - Disney Movies that were apart of the Disney Renaissance
 - [Disney Renaissance Video Breakdown](https://www.youtube.com/watch?v=JX0gZY9VKlM) - A video breakdown on why Disney music has such a nostalgic sound.
+
+
+For more in depth knowledge on our process check this [executive summary](Presentation_Files/DOC)
+<br>For the [powerpoint presentation](Presentation_Files/PPT)
